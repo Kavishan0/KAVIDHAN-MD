@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *KAVISHAN-MD by KAVISHAN MD is alive*`
+ *KAVISHAN-MD by KAVISHAN is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre(" KAVISHAN 𝐌𝐃 𝐕5 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 KAVISHAN");
-         repondre(" *Support feenix md ! dark sasiya")
+      await   repondre(" KAVISHAN 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 KAVISHAN");
+         repondre(" *Support KAVISHAN MD! ")
      }
  } else {
 
