@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("https://github.com/Kavishan0/KAVISHAN-MD/blob/main/alive.mp3");
+      await   repondre{ audio: {url : 'https://github.com/Kavishan0/KAVISHAN-MD/blob/main/alive.mp3',};
          repondre(" *Support KAVISHAN MD! ")
      }
  } else {
