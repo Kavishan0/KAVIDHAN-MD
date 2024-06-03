@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre(" KAVISHAN 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 KAVISHAN");
+      await   repondre("https://github.com/Kavishan0/KAVISHAN-MD/blob/main/alive.mp3");
          repondre(" *Support KAVISHAN MD! ")
      }
  } else {
