@@ -56,11 +56,11 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "☠️" }, async (
 
     const devs = [
       { nom: "💀❗ KAVISHAN ", numero: "94788017991" },
-      { nom: "💀❗ KAVISHAM yt", numero: "https://www.youtube.com/@KAVISHAN-MD" },
+      { nom: "💀❗ KAVISHAN yt", numero: "https://www.youtube.com/@KAVISHAN-MD" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to KAVISHAM-MD* here is the developer contact numbers 👇\n\n";
+    let message = "👋 *Welcome to KAVISHAN-MD* here is the developer contact numbers 👇\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
