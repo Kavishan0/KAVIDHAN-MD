@@ -22,13 +22,13 @@
 #### SETUP 
 
     
-<a href="https://kavishan-pair-code.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://kalanapaircodetext-27305d44a423.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
  
 
 
 
-<a href="https://kavishan-pair-code.onrender.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://kalanapaircodetext-27305d44a423.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 
