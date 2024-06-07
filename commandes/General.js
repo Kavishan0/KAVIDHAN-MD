@@ -56,7 +56,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "☠️" }, async (
 
     const devs = [
       { nom: "💀❗ KAVISHAN ", numero: "94788017991" },
-      { nom: "💀❗ KAVISHAN yt", numero: "https://www.youtube.com/@KAVISHAN-MD" },
+      { nom: "💀❗ KAVISHAN fb", numero: "https://www.facebook.com/profile.php?id=61552926931446&mibextid=ZbWKwL" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
