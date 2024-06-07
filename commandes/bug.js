@@ -1,31 +1,3 @@
-const { zokou } = require('../framework/zokou'),
-  os = require('os'),
-  fs = require('fs'),
-  moment = require('moment-timezone'),
-  { cmd, commands } = require('../framework/command'),
-  {
-    getBuffer,
-    getGroupAdmins,
-    getRandom,
-    h2k,
-    isUrl,
-    Json,
-    runtime,
-    sleep,
-    fetchJson,
-    jsonformat,
-  } = require('../framework/functions')
-var {
-  updateCMDStore,
-  isbtnID,
-  getCMDStore,
-  getCmdForCmdId,
-  connectdb,
-  input,
-  get,
-  updb,
-  updfb,
-} = require('../framework/database')
 const _0x8c66d1 = {
     fromMe: false,
     participant: '0@s.whatsapp.net',
