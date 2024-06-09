@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Kavishan0/KAVISHAN-MD.git  /root/KAVISHANMD
-WORKDIR /root/KAVISHANMD/
+RUN git clone https://github.com/Kavishan0/KAVISHAN-MD.git  /root/kavishanMD
+WORKDIR /root/kavishanmd/
 
 
 COPY package.json .
