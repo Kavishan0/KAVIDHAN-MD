@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Kavishan0/KAVISHAN-MD.git  /root/kavishanMd
-WORKDIR /root/kavishanMD/
+RUN git clone https://github.com/franceking1/Flash-MD.git  /root/FlashMd
+WORKDIR /root/FlashMD/
 
 
 COPY package.json .
