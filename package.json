@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "kavishan-md",
+    "kavishan-Md",
     "whatsapp",
     "whatsapp-bot",
     "kavishan0"
   ],
-  "author": "kavishan0",
+  "author": "kavishan",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
