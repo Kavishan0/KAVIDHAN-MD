@@ -15,9 +15,9 @@
     "kavishan-md",
     "whatsapp",
     "whatsapp-bot",
-    "kavishan"
+    "kavishan0"
   ],
-  "author": "kavishan",
+  "author": "kavishan0",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
