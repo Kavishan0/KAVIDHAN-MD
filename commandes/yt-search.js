@@ -77,7 +77,7 @@ _*En cours de téléchargement...*_\n\n`
 
     fileStream.on('finish', () => {
       // Envoi du fichier vidéo en utilisant l'URL du fichier local
-      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *KAVISHAN-MM*", gifPlayback: false }, { quoted: ms });
+      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *KAVISHAN-MD*", gifPlayback: false }, { quoted: ms });
 
     });
 
