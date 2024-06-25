@@ -858,7 +858,7 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『DEXTER-MD is CONNECTED』*
+*『KAVISHAN-MD is CONNECTED』*
 
      
 ║❒Creator: *KAVISHAN*
