@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+const { zokou } = require("../framework/zokou");{
 key: {
 remoteJid: 'status@broadcast',
 fromMe: false,
