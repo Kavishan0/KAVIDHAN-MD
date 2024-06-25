@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['kavishan-Md', "safari", "1.0.0"],
+            browser: ['Flash-Md', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
