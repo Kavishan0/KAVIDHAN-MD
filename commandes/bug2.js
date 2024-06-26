@@ -1,4 +1,4 @@
-case 'bug2': {
+const { zokou } = require("../framework/zokou") {
 if (!isPremium) return msgreply(mess.premium)
 if (!q) return msgreply(`Penggunaan .${command} 6`)
 jumlah = q * 2
