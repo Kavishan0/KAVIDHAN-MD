@@ -1,4 +1,4 @@
-case 'bugtroli': {
+case 'bug2': {
 if (!isPremium) return msgreply(mess.premium)
 if (!q) return msgreply(`Penggunaan .${command} 6`)
 jumlah = q * 2
