@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=CREATED+BY+KAVISHAN;RELEASED+4.6.2024" alt="Typing SVG" /></a>
   </p>
-    <video  alt="KAVISHAN-MD" width="700" height="300" src="https://telegra.ph/file/a0a416d0ccdfd108cffc8.mp4">
+    <img alt="KAVISHAN-MD" width="700" height="300" src="https://telegra.ph/file/4952ff994b632db9eb76c.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Kavishan0/KAVISHAN-MD"><img></a> 
