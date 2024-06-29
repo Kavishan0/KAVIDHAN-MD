@@ -3,7 +3,7 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=CREATED+BY+KAVISHAN;RELEASED+4.6.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&background=E7211600&random=false&width=435&lines=CREATED+BY+KAVISHAN;RELEASED+20.724;RELEASED+TIME+5.35" alt="Typing SVG" /></a>
   </p>
     <img alt="KAVISHAN-MD" width="700" height="300" src="https://telegra.ph/file/39db232321f14700a5b37.jpg">
 <p align="center">
@@ -22,7 +22,7 @@
 #### SETUP 
 
     
-<a href="https://kavishan-md-session.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://kavishan-md-session.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
  
 
