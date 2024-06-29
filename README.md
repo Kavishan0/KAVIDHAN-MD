@@ -56,13 +56,10 @@
 
    <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/c653b08bd6bb19bf1aafc.jpg" width=200 height=200></a>   
 
-|[`cyber kaviyh`](https://github.com/Kavishan0)
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Thanks To 
-1: Naveed Dogar
 
-**2:Thanks to excel owner of BMW MD**
+**:Thanks to excel owner of BMW MD**
 
 ##  *KAVISHAN-MD - DEVELOPER TEAM* *2024*  
 
