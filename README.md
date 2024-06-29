@@ -67,4 +67,4 @@
 ## ⚖️  *KAVISHAN-MD - DEVELOPER TEAM* *2024*  ⚖️
 
 <div align="left">
-  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/arkhan998.png" width="200" height="200" alt="Ash"/></a>
+  <a href="[https://github.com/ibrahimaitech]"><img src="https://telegra.ph/file/1116f437851fb53676c6d.jpg" width="200" height="200" alt="Ash"/></a>
