@@ -47,7 +47,7 @@
 ## 👑 **`KAVISHAN-MD BOT OWNERS`** 👑
 
 
-   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/d4897e32ae51d7d69cad9.jpg" width=80 height=80></a>   
+   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/c653b08bd6bb19bf1aafc.jpg" width=80 height=80></a>   
 
 |[`cyber kaviyh`](https://github.com/Kavishan0)
 
