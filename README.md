@@ -1,7 +1,7 @@
 <h1 align="center"> 𝐓𝐇𝐄 KAVISHAN 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=CREATED+BY+KAVISHAN;RELEASED+20.7.2024;RELEASED+TIME+5.30" alt="Typing SVG" /></a>
   </p>
@@ -17,7 +17,7 @@
 
 ![stars](https://img.shields.io/github/stars/Kavishan0/KAVISHAN-MD?style=social)
   
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### SETUP 
 
@@ -32,7 +32,7 @@
 <br>
 
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
@@ -43,7 +43,7 @@
 </details>
 
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 👑 **`KAVISHAN-MD BOT OWNERS`** 👑
 
 
@@ -51,4 +51,4 @@
 
 |[`cyber kaviyh`](https://github.com/Kavishan0)
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
