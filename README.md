@@ -64,10 +64,9 @@
 
 **2:Thanks to excel owner of BMW MD**
 
-## ⚖️  *KAVISHAN-MD - DEVELOPER TEAM* *2024*  ⚖️
+##  *KAVISHAN-MD - DEVELOPER TEAM* *2024*  
 
-<div align="left">
-  <a href="[https://github.com/ibrahimaitech]"><img src="https://telegra.ph/file/1116f437851fb53676c6d.jpg" width="200" height="200" alt="Ash"/></a>
+<a href="https://github.com/ibrahimaitech/"><img src="https://telegra.ph/file/1116f437851fb53676c6d.jpg" width=200 height=200></a>
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
