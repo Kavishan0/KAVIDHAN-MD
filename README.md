@@ -38,7 +38,14 @@
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
-[`Deploy on heroku`](https://dashboard.heroku.com/new?template=https://github.com/Kavishan0/KAVISHAN-MD)
+## DEPLOY TO HEROKU
+
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Kavishan0/KAVISHAN-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
 </details>
 
@@ -52,3 +59,12 @@
 |[`cyber kaviyh`](https://github.com/Kavishan0)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Thanks To 
+1: Naveed Dogar
+
+**2:Thanks to excel owner of BMW MD**
+
+## ⚖️  *KAVISHAN-MD - DEVELOPER TEAM* *2024*  ⚖️
+
+<div align="left">
+  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/arkhan998.png" width="200" height="200" alt="Ash"/></a>
