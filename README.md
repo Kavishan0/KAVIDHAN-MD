@@ -54,7 +54,7 @@
 ## 👑 **`KAVISHAN-MD BOT OWNERS`** 👑
 
 
-   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/c653b08bd6bb19bf1aafc.jpg" width=80 height=80></a>   
+   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/c653b08bd6bb19bf1aafc.jpg" width=200 height=200></a>   
 
 |[`cyber kaviyh`](https://github.com/Kavishan0)
 
@@ -68,3 +68,6 @@
 
 <div align="left">
   <a href="[https://github.com/ibrahimaitech]"><img src="https://telegra.ph/file/1116f437851fb53676c6d.jpg" width="200" height="200" alt="Ash"/></a>
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
