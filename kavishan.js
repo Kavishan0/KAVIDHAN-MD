@@ -154,7 +154,7 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254114141192';
+            const dj = '94788017991';
             const dj2 = '254751284190';
             const dj3 = "254742063632";
             const luffy = '254762016957';
@@ -815,8 +815,8 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("------------------/-----");
                 console.log("kavishan Md is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Beltah Commands ...\n");
-                fs.readdirSync(__dirname + "/beltah").forEach((fichier) => {
+                console.log("Loading kavishan Commands ...\n");
+                fs.readdirSync(__dirname + "/kavishan").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/beltah/" + fichier);
