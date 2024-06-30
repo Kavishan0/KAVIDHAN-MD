@@ -819,12 +819,12 @@ zk.ev.on('group-participants.update', async (group) => {
                 fs.readdirSync(__dirname + "/kavishan").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/beltah/" + fichier);
+                            require(__dirname + "/kavishan/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be installed due to : ${e}`);
-                        } /* require(__dirname + "/beltah/" + fichier);
+                        } /* require(__dirname + "/kavishan/" + fichier);
                          console.log(fichier + " Installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
