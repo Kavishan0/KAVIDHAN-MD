@@ -1,3 +1,5 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <h1 align="center"> 𝐓𝐇𝐄 KAVISHAN 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
@@ -64,7 +66,7 @@
 ## 👑 **`KAVISHAN-MD BOT OWNERS`** 👑
 
 
-   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/c653b08bd6bb19bf1aafc.jpg" width=200 height=200></a>   
+   <a href="https://github.com/Kavishan0/"><img src="https://telegra.ph/file/30e683ae99927425fd62a.jpg" width=200 height=200></a>   
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Thanks To 
