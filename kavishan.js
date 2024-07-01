@@ -816,15 +816,15 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("kavishan Md is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading kavishan Commands ...\n");
-                fs.readdirSync(__dirname + "/kavishan").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/kavishan/" + fichier);
+                            require(__dirname + "/commandes/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be installed due to : ${e}`);
-                        } /* require(__dirname + "/kavishan/" + fichier);
+                        } /* require(__dirname + "/commandes/" + fichier);
                          console.log(fichier + " Installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
