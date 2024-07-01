@@ -1,6 +1,6 @@
 run = "pm2 start kavishan.js --attach --max-memory-restart 490M"
 entrypoint = "kavishan.js"
-hidden = [".config", "package-lock.json"]
+hidden = [".set.js", "package-lock.json"]
  
 [languages]
        
@@ -42,7 +42,7 @@ type = "request"
 console = "externalTerminal"
 cwd = "."
 pauseForSourceMap = false
-program = "./lib/client.js"
+program = ".kavishan.js"
 request = "launch"
 sourceMaps = true
 stopOnEntry = false
@@ -66,12 +66,12 @@ language = "nodejs"
 channel = "stable-22_11"
 
 [env]
-XDG_CONFIG_HOME = "/home/runner/$REPL_SLUG/.config"
+XDG_CONFIG_HOME = "/home/runner/$REPL_SLUG/.set.js"
 PATH = "/home/runner/$REPL_SLUG/.config/npm/node_global/bin:/home/runner/$REPL_SLUG/node_modules/.bin"
 npm_config_prefix = "/home/runner/$REPL_SLUG/.config/npm/node_global"
 
 [gitHubImport]
-requiredFiles = [".replit", "replit.nix", ".config", "package.json", "package-lock.json"]
+requiredFiles = [".replit", "replit.nix", ".set.js", "package.json", "package-lock.json"]
 
 [[hints]]
 regex = 'Error \[ERR_REQUIRE_ESM\]'
