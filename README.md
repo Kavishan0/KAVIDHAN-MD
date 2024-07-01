@@ -56,7 +56,7 @@
     <a href='https://replit.com/signup/' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replitt&logoColor=red'/></a>
 2. Now deploy.
     <br>
-    <a href='-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=red'/></a>
+    <a href='https://repl.it/github/kavishan0/KAVISHAN-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=red'/></a>
     
 
 </details>
